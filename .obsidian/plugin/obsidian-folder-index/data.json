@@ -1,0 +1,20 @@
+{
+  "disableHeadlines": false,
+  "graphOverwrite": true,
+  "rootIndexFile": "Home.md",
+  "autoCreateIndexFile": true,
+  "autoRenameIndexFile": true,
+  "includeFileContent": false,
+  "hideIndexFiles": false,
+  "indexFileInitText": "```folder-index-content\n```",
+  "autoPreviewMode": true,
+  "sortIndexFiles": "Alphabetically",
+  "sortHeaders": "Disabled",
+  "recursiveIndexFiles": true,
+  "renderFolderBold": true,
+  "renderFolderItalic": false,
+  "useBulletPoints": true,
+  "excludeFolders": [],
+  "recursionLimit": -1,
+  "headlineLimit": 3
+}
